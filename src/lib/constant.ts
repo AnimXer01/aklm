@@ -1,4 +1,4 @@
-export const CONSUMET_URL = "https://api.consumet.org";
+export const CONSUMET_URL = "https://animxer2t.vercel.app";
 export const ENIME_URL = "https://api.enime.moe/";
 export const CORS_PROXY = "https://cors.consumet.stream/";
 export const PAGE = 1;
